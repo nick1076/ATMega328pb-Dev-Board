@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=R7 Old Footprint=RESC3116X65X40ML10T20 New Footprint=RESC3116X65X40LL10T20
+Change Component Footprint: Designator=R9 Old Footprint=RESC3116X65X40ML10T20 New Footprint=RESC3116X65X40LL10T20
+Add component: Footprint Not Found 61300611121
+Add component: Footprint Not Found VREG_TLV1117LV33DCYR
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Add Pin To Net: Unknown Pin: Pin P1-4
+Add Pin To Net: Unknown Pin: Pin P1-5
+Add Pin To Net: Unknown Pin: Pin P1-6
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Added Member To Class: ClassName=Parts Member=Component C5 2.2µF
+Added Member To Class: ClassName=Parts Member=Component C6 10nF
+Added Member To Class: ClassName=Parts Member=Component C7 0.1µF
+Added Member To Class: ClassName=Parts Member=Component C8 1µF
+Added Member To Class: ClassName=Parts Member=Component C9 10µF
+Add Class Member: Failed to add class member : Component P1 61300611121
+Added Member To Class: ClassName=Main Member=Component P2 61300411121
+Added Member To Class: ClassName=Parts Member=Component R4 33O
+Added Member To Class: ClassName=Parts Member=Component R5 10kO
+Added Member To Class: ClassName=Parts Member=Component R9 1kO
+Add Class Member: Failed to add class member : Component U3 TLV1117LV33DCYR

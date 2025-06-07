@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=R6 Old Footprint=RESC1206(3216)_N New Footprint=RESC3116X65X40LL10T20
+Change Component Footprint: Designator=R8 Old Footprint=RESC1206(3216)_N New Footprint=RESC3116X65X40LL10T20
+Change Managed Component Library Link : Designator=R6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C2F589FF-83C0-48F6-BA2F-E90D6C8A7F84 New ItemGUID=A9AEEE92-205B-4207-AC4A-68F7DF532014 Old RevisionGUID=CB7E4713-5182-4F2B-97F0-CBA07DB2D3AE New RevisionGUID=03124EF3-FC60-48F4-AB1E-8B11975D17FC
+Change Managed Component Library Link : Designator=R8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C2F589FF-83C0-48F6-BA2F-E90D6C8A7F84 New ItemGUID=A9AEEE92-205B-4207-AC4A-68F7DF532014 Old RevisionGUID=CB7E4713-5182-4F2B-97F0-CBA07DB2D3AE New RevisionGUID=03124EF3-FC60-48F4-AB1E-8B11975D17FC
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC1206(3216)_N"; UniqueID = "\SNIVNCGT" ("\SNIVNCGT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206JR-07620RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RESC1206(3216)_N"; UniqueID = "\LBKCNMCP" ("\LBKCNMCP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC1206JR-07620RL"; VariantName = "[No Variations]"
+Add component: Footprint Not Found 61300611121
+Add component: Footprint Not Found VREG_TLV1117LV33DCYR
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Add Pin To Net: Unknown Pin: Pin P1-4
+Add Pin To Net: Unknown Pin: Pin P1-5
+Add Pin To Net: Unknown Pin: Pin P1-6
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Class Member: Failed to add class member : Component P1 61300611121
+Add Class Member: Failed to add class member : Component U3 TLV1117LV33DCYR
