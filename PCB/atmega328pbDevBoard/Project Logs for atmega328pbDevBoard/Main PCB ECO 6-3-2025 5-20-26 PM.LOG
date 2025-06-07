@@ -1,0 +1,81 @@
+Removed Member From Class: ClassName=MicroSD Member=C5
+Removed Member From Class: ClassName=LevelShifter Member=C8
+Removed Member From Class: ClassName=MicroSD Member=C8
+Removed Member From Class: ClassName=Parts Member=R7
+Added Component: Designator=R4(RESC1206(3216)_L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3116X65X40LL10T20)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 5, 10/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.1 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1206.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/degreesC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3116X65X40LL10T20)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 5, 10/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.1 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1206.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/degreesC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_8 Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetJ1_9 Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Member To Class: ClassName=MicroSD Member=Component C1 10µF
+Added Member To Class: ClassName=MicroSD Member=Component C2 0.1µF
+Added Member To Class: ClassName=LevelShifter Member=Component C3 0.1µF
+Added Member To Class: ClassName=LevelShifter Member=Component C4 0.1µF
+Added Member To Class: ClassName=LevelShifter Member=Component C6 1µF
+Added Member To Class: ClassName=MicroSD Member=Component R4 33O
+Added Member To Class: ClassName=MicroSD Member=Component R? 10kO
+Added Member To Class: ClassName=Parts Member=Component R? 10kO

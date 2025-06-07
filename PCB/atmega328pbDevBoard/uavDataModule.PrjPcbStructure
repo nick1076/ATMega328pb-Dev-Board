@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=Accelerometer.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Accelerometer.SchDoc|FileName=Altimeter.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Accelerometer.SchDoc|FileName=BuckConverter.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Accelerometer.SchDoc|FileName=LevelShifter.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Accelerometer.SchDoc|FileName=Logic.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Accelerometer.SchDoc|FileName=Microcontroller.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Accelerometer.SchDoc|FileName=MicroSD.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Accelerometer.SchDoc|FileName=Parts.SchDoc|SheetNumber=8

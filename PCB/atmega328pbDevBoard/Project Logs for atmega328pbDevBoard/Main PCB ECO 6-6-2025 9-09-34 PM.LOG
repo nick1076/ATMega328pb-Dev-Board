@@ -1,0 +1,206 @@
+Removed Pin From Net: NetName=3V3 Pin=C1-1
+Removed Pin From Net: NetName=3V3 Pin=C2-2
+Removed Pin From Net: NetName=3V3 Pin=C3-2
+Removed Pin From Net: NetName=3V3 Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=3V3 Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=3V3 Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=3V3 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=5V0 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=5V0 Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=3V3 Pin=C10-2
+Removed Pin From Net: NetName=3V3 Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-6
+Removed Pin From Net: NetName=GND Pin=J1-10
+Removed Pin From Net: NetName=GND Pin=J1-11
+Removed Pin From Net: NetName=GND Pin=J1-12
+Removed Pin From Net: NetName=GND Pin=J1-13
+Removed Pin From Net: NetName=GND Pin=J1-14
+Removed Pin From Net: NetName=GND Pin=MT1-1
+Removed Pin From Net: NetName=3V3 Pin=MT1-5
+Removed Pin From Net: NetName=GND Pin=MT1-6
+Removed Pin From Net: NetName=3V3 Pin=MT1-8
+Removed Pin From Net: NetName=3V3 Pin=MT1-12
+Removed Pin From Net: NetName=5V0 Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-6
+Removed Pin From Net: NetName=3V3 Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=3V3 Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-5
+Removed Pin From Net: NetName=3V3 Pin=U2-6
+Removed Pin From Net: NetName=GND Pin=U2-7
+Removed Pin From Net: NetName=3V3 Pin=U2-8
+Removed Pin From Net: NetName=3V3 Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-7
+Removed Pin From Net: NetName=5V0 Pin=U4-14
+Removed Pin From Net: NetName=GND Pin=U5-1
+Removed Pin From Net: NetName=3V3 Pin=U5-2
+Removed Pin From Net: NetName=5V0 Pin=U5-3
+Removed Pin From Net: NetName=3V3 Pin=U5-4
+Change Component Footprint: Designator=C3 Old Footprint=CAPC3216X100X50ML20T25 New Footprint=CAPC3216X110X50LL20T25
+Change Component Footprint: Designator=C2 Old Footprint=CAPC3216X180X50LL20T25 New Footprint=CAPC3216X100X50ML20T25
+Change Component Footprint: Designator=C4 Old Footprint=FP-C1206C-EB-MFG New Footprint=CAPC3216X110X50LL20T25
+Change Footprint: Footprint Not Found VREG_TLV1117LV33DCYR
+Change Component Comment : Designator=C3 Old Comment=0.1µF New Comment=1µF
+Change Component Comment : Designator=C2 Old Comment=2.2µF New Comment=0.1µF
+Change Component Comment : Designator=C4 Old Comment=10nF New Comment=1µF
+Change Component Comment : Designator=U3 Old Comment=LMR33610ADDAR New Comment=TLV1117LV33DCYR
+Change Component Designator: OldDesignator=C11 NewDesignator=C5
+Change Component Designator: OldDesignator=C12 NewDesignator=C6
+Change Component Designator: OldDesignator=C13 NewDesignator=C7
+Change Component Designator: OldDesignator=C14 NewDesignator=C8
+Change Component Designator: OldDesignator=C15 NewDesignator=C9
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=R9 NewDesignator=R4
+Change Component Designator: OldDesignator=R10 NewDesignator=R5
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Managed Component Library Link : Designator=C2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=164F7771-0CA1-4231-B6B5-096B2E1F65E7 New ItemGUID=FD21D947-9A54-420F-A299-2538D680C048 Old RevisionGUID=C3814988-2BD3-4870-B901-9C4A270A4E64 New RevisionGUID=9682A355-E8A6-4E72-9799-7F6C3E0776FB
+Change Managed Component Library Link : Designator=C3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=FD21D947-9A54-420F-A299-2538D680C048 New ItemGUID=E8BB9374-CAD9-4083-B39E-D35CF9CECC3E Old RevisionGUID=9682A355-E8A6-4E72-9799-7F6C3E0776FB New RevisionGUID=21161082-042B-4F80-836A-E02CD4D168BC
+Change Managed Component Library Link : Designator=C4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E93C15B4-239F-4852-8CD4-A68775EF1FD2 New ItemGUID=E8BB9374-CAD9-4083-B39E-D35CF9CECC3E Old RevisionGUID=756CFA76-C3B3-4FD4-A227-3765A36B6AAA New RevisionGUID=21161082-042B-4F80-836A-E02CD4D168BC
+Change Managed Component Library Link : Designator=U3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=652BBDFB-48EB-4E17-97AA-E3AB5468071D New ItemGUID= Old RevisionGUID=8D97EA66-1C8D-48D6-B929-FF04B921CB6C New RevisionGUID=
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPC3216X180X50LL20T25"; UniqueID = "\BFPBLEAN" ("\BFPBLEAN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/docfinder?Partnumber=C1206F104K3RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "02/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.78 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "3.2 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "25 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC3216X100X50ML20T25"; UniqueID = "\GLDEMCWR" ("\GLDEMCWR")
+Change component parameters (AddParameter): Name = "Brand"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance - nF"; Value = "1000nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code - in"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code - mm"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Class"; Value = "Class1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.kemet.com/docfinder?Partnumber=C1206C105K5RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "02/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimensions"; Value = "1.6mmWx3.2mmLx1mmH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Pack Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Operating Temperature"; Value = "+125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "1206(3216metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product"; Value = "GeneralTypeMLCCs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "MultilayerCeramicCapacitorsMLCC-SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "C1206C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient / Code"; Value = "+/-15%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "SMDMLCCX7R6.3-250VDCCommericalGrade"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating DC"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "FP-C1206C-EB-MFG"; UniqueID = "\UEVDRCUB" ("\UEVDRCUB")
+Change component parameters (AddParameter): Name = "Brand"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance - nF"; Value = "1000nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code - in"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code - mm"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Class"; Value = "Class1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.kemet.com/docfinder?Partnumber=C1206C105K5RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "02/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimensions"; Value = "1.6mmWx3.2mmLx1mmH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Pack Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Operating Temperature"; Value = "+125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "1206(3216metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product"; Value = "GeneralTypeMLCCs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "MultilayerCeramicCapacitorsMLCC-SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "C1206C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient / Code"; Value = "+/-15%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "SMDMLCCX7R6.3-250VDCCommericalGrade"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating DC"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "FP-DDA0008J-IPC_C"; UniqueID = "\XOTLQYWT" ("\XOTLQYWT")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLV1117LV33DCYR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "296-28778-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TLV1117LV33DCYR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-223-4 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TLV1117LV33DCYR/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLV1117LV33DCYR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found 61300611121
+Add component: Footprint Not Found SOP65P640X120-14N
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=5V0 Pin=C2-2
+Added Pin To Net: NetName=5V0 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=3V3 Pin=C4-2
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-6
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-14
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=3V3 Pin=U3-2
+Added Pin To Net: NetName=5V0 Pin=U3-3
+Added Pin To Net: NetName=3V3 Pin=U3-4
+Change Net Name : Old Net Name=NetP1_2 New Net Name=NetP2_2
+Change Net Name : Old Net Name=NetP1_3 New Net Name=NetP2_3
+Added Net: Name=NetP1_2
+Added Net: Name=NetP1_3
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetP1_5 Pin=U2-16
+Added Net: Name=NetP1_5
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U2-28
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U2-27
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetU1_2 Pin=U2-15
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=NetU1_3 Pin=U2-17
+Added Net: Name=NetU1_3
+Added Net: Name=NetU1_4
+Added Net: Name=NetU1_8
+Added Member To Class: ClassName=Main Member=Component C1 0.1µF
+Added Member To Class: ClassName=Main Member=Component C2 0.1µF
+Added Member To Class: ClassName=Main Member=Component C3 1µF
+Added Member To Class: ClassName=Main Member=Component C4 1µF
+Added Member To Class: ClassName=Main Member=Component P2 61300411121
+Added Member To Class: ClassName=Main Member=Component U2 ATMEGA328PB-AU
+Added Member To Class: ClassName=Main Member=Component U3 TLV1117LV33DCYR

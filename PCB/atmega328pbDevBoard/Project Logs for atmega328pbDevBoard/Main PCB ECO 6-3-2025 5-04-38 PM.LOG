@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=3V3 Pin=U5-2
+Added Pin To Net: NetName=5V0 Pin=U5-3
+Added Pin To Net: NetName=3V3 Pin=U5-4
+Added Member To Class: ClassName=LevelShifter Member=Component U5 TLV1117LV33DCYR
+Added Member To Class: ClassName=Logic Member=Component U7 SN74HC14DR
+Added Member To Class: ClassName=Logic Member=Component U8 SN74HC14DR
+Added Member To Class: ClassName=Logic Member=Component U9 SN74HC00PWR
+Added Member To Class: ClassName=Logic Member=Component U10 SN74HC32DR

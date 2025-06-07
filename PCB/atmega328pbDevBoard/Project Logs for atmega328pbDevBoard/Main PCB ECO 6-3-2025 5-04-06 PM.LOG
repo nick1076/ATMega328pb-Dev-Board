@@ -1,0 +1,240 @@
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Change Component Designator: OldDesignator=U7 NewDesignator=U8
+Change Component Designator: OldDesignator=U8 NewDesignator=U9
+Change Component Designator: OldDesignator=U9 NewDesignator=U10
+Change Component Designator: OldDesignator=U10 NewDesignator=U11
+Change Component Designator: OldDesignator=U11 NewDesignator=U12
+Change Component Description : Designator=U2 Old Description=DIGITAL HUMIDITY, PRESSURE AND TEMPERATURE SENSOR<br>* Digital interface IÂ²C (up to 3.4 MHz) and SPI (3 and 4 wire, up to 10 MHz)* Supply voltage VDD main supply voltage range: 1.71 V to 3.6 V*VDDIO interface voltage range: 1.2 V to 3.6 V<br> Operating range -40â€ New Description=DIGITAL HUMIDITY, PRESSURE AND TEMPERATURE SENSOR<br>* Digital interface IÂ²C (up to 3.4 MHz) and SPI (3 and 4 wire, up to 10 MHz)* Supply voltage VDD main supply voltage range: 1.71 V to 3.6 V*VDDIO interface voltage range: 1.2 V to 3.6 V<br> Operating range -40â€|+85 Â°C, 0â€|100 % rel. humidity, 300â€|1100 hPa <br><br>  The library has been designed by<a href="https://www.facebook.com/groups/eaglecadsoftUK"> Richard Magdycz</a>
+Added Component: Designator=C1(CAPC3216X100X50ML20T25)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/docfinder?Partnumber=C1206F104K3RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.78 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25 V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC3216X100X50ML20T25)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/docfinder?Partnumber=C1206F104K3RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.78 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25 V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC3216X110X50LL20T25)
+Add component (AddParameter): Name = "Brand"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - nF"; Value = "1000nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - in"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Class1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.kemet.com/docfinder?Partnumber=C1206C105K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "1.6mmWx3.2mmLx1mmH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206(3216metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "GeneralTypeMLCCs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "MultilayerCeramicCapacitorsMLCC-SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C1206C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient / Code"; Value = "+/-15%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMDMLCCX7R6.3-250VDCCommericalGrade"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating DC"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC3216X110X50LL20T25)
+Add component (AddParameter): Name = "Brand"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - nF"; Value = "1000nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - in"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Class1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.kemet.com/docfinder?Partnumber=C1206C105K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "1.6mmWx3.2mmLx1mmH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206(3216metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "GeneralTypeMLCCs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "MultilayerCeramicCapacitorsMLCC-SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C1206C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient / Code"; Value = "+/-15%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMDMLCCX7R6.3-250VDCCommericalGrade"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating DC"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC3216X100X50ML20T25)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/docfinder?Partnumber=C1206F104K3RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.78 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25 V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC3216X110X50LL20T25)
+Add component (AddParameter): Name = "Brand"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance - nF"; Value = "1000nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - in"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Class"; Value = "Class1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.kemet.com/docfinder?Partnumber=C1206C105K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "1.6mmWx3.2mmLx1mmH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206(3216metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "GeneralTypeMLCCs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "MultilayerCeramicCapacitorsMLCC-SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C1206C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient / Code"; Value = "+/-15%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMDMLCCX7R6.3-250VDCCommericalGrade"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating DC"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=P1(61300611121)
+Add component (AddParameter): Name = "Category"; Value = "Board-to-Board Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/61300611121?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/61300611121?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61300611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-PHD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found VREG_TLV1117LV33DCYR
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=3V3 Pin=C4-2
+Added Pin To Net: NetName=3V3 Pin=U4-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V0 Pin=C2-2
+Added Pin To Net: NetName=5V0 Pin=C3-2
+Added Pin To Net: NetName=5V0 Pin=P1-1
+Added Pin To Net: NetName=5V0 Pin=U4-14
+Added Net: Name=5V0
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Net: Name=GND
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=U4-12
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=U4-13
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=U4-11
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Net: Name=NetP1_5
+Added Pin To Net: NetName=NetU4_2 Pin=U4-2
+Added Net: Name=NetU4_2
+Added Pin To Net: NetName=NetU4_3 Pin=U4-3
+Added Net: Name=NetU4_3
+Added Pin To Net: NetName=NetU4_4 Pin=U4-4
+Added Net: Name=NetU4_4
+Added Pin To Net: NetName=NetU4_8 Pin=U4-8
+Added Net: Name=NetU4_8
+Added Class: Name=Parts
+Added Member To Class: ClassName=LevelShifter Member=Component C1 0.1µF
+Added Member To Class: ClassName=LevelShifter Member=Component C2 0.1µF
+Added Member To Class: ClassName=LevelShifter Member=Component C3 1µF
+Added Member To Class: ClassName=LevelShifter Member=Component C4 1µF
+Added Member To Class: ClassName=LevelShifter Member=Component P1 61300611121
+Add Class Member: Failed to add class member : Component U5 TLV1117LV33DCYR
+Added Member To Class: ClassName=Logic Member=Component U7 SN74HC14DR
+Added Member To Class: ClassName=Logic Member=Component U12 SN74HC14DR
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
