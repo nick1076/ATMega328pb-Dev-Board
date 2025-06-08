@@ -1,0 +1,30 @@
+Add component: Footprint Not Found VREG_TLV1117LV33DCYR
+Add component: Footprint Not Found DPAK229P990X238-4N
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Change Net Name : Old Net Name=3V3 New Net Name=VCCA
+Change Net Name : Old Net Name=5V0 New Net Name=VCCB
+Change Net Name : Old Net Name=NetC1_2 New Net Name=AVCC
+Change Net Name : Old Net Name=NetC2_1 New Net Name=AREF
+Change Net Name : Old Net Name=NetD4_2 New Net Name=LED_BUILTIN
+Change Net Name : Old Net Name=NetP1_2 New Net Name=MOSI_5V
+Change Net Name : Old Net Name=NetP1_3 New Net Name=SCK_5V
+Change Net Name : Old Net Name=NetP1_4 New Net Name=RESET_5V
+Change Net Name : Old Net Name=NetP1_5 New Net Name=MISO
+Change Net Name : Old Net Name=NetP2_2 New Net Name=TX
+Change Net Name : Old Net Name=NetP2_3 New Net Name=RX
+Change Net Name : Old Net Name=NetP3_11 New Net Name=SCL
+Change Net Name : Old Net Name=NetP3_12 New Net Name=SDA
+Change Net Name : Old Net Name=NetP4_8 New Net Name=SCK
+Change Net Name : Old Net Name=NetP4_10 New Net Name=MOSI
+Change Net Name : Old Net Name=NetR1_1 New Net Name=RESET
+Change Net Name : Old Net Name=NetR11_2 New Net Name=OE
+Add Class Member: Failed to add class member : Component U3 TLV1117LV33DCYR
+Add Class Member: Failed to add class member : Component U4 VIN->5V0
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5

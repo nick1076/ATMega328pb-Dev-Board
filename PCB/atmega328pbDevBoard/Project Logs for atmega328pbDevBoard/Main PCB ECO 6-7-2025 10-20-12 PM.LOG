@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=MISO Pin=P3-3
+Removed Pin From Net: NetName=PD7 Pin=P3-4
+Removed Pin From Net: NetName=PD6 Pin=P3-5
+Removed Pin From Net: NetName=PD5 Pin=P3-6
+Add component: Footprint Not Found VREG_TLV1117LV33DCYR
+Add component: Footprint Not Found DPAK229P990X238-4N
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=MISO Pin=P3-4
+Added Pin To Net: NetName=PD7 Pin=P3-5
+Added Pin To Net: NetName=PD6 Pin=P3-6
+Added Pin To Net: NetName=PD5 Pin=P3-7
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Class Member: Failed to add class member : Component U1 TLV1117LV33DCYR
+Add Class Member: Failed to add class member : Component U3 VIN->5V0

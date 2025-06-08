@@ -1,0 +1,50 @@
+Removed Member From Class: ClassName=Main Member=C10
+Removed Member From Class: ClassName=Main Member=C11
+Removed Member From Class: ClassName=Main Member=D6
+Removed Member From Class: ClassName=Main Member=R11
+Added Component: Designator=R12(RESC3116X65X40LL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC1206JR-075K1L"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC3116X65X40LL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC1206JR-075K1L"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC3116X65X40LL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC1206JR-075K1L"; VariantName = "[No Variations]"
+Add component: Footprint Not Found VREG_TLV1117LV33DCYR
+Add component: Footprint Not Found DPAK229P990X238-4N
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=NetJ1_A5 Pin=R12-2
+Added Net: Name=NetJ1_A5
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=NetJ1_B5 Pin=R13-1
+Added Net: Name=NetJ1_B5
+Added Member To Class: ClassName=Main Member=Component C2 1µF
+Added Member To Class: ClassName=Main Member=Component C4 0.1µF
+Added Member To Class: ClassName=Main Member=Component C6 1µF
+Added Member To Class: ClassName=Main Member=Component C8 0.1µF
+Added Member To Class: ClassName=Parts Member=Component C9 2.2µF
+Added Member To Class: ClassName=Parts Member=Component C12 1µF
+Added Member To Class: ClassName=Main Member=Component D1 SS14
+Added Member To Class: ClassName=Main Member=Component D2 SS14
+Added Member To Class: ClassName=Main Member=Component D3 150120GS75000
+Added Member To Class: ClassName=Main Member=Component D4 150120GS75000
+Added Member To Class: ClassName=Main Member=Component P1 61300411121
+Added Member To Class: ClassName=Main Member=Component P4 61300611121
+Added Member To Class: ClassName=Main Member=Component R3 620O
+Added Member To Class: ClassName=Main Member=Component R7 10kO
+Added Member To Class: ClassName=Parts Member=Component R9 33O
+Added Member To Class: ClassName=Main Member=Component R12 5.1kO
+Added Member To Class: ClassName=Main Member=Component R13 5.1kO
+Added Member To Class: ClassName=Parts Member=Component R14 5.1kO
+Add Class Member: Failed to add class member : Component U1 TLV1117LV33DCYR
+Add Class Member: Failed to add class member : Component U3 VIN->5V0

@@ -1,0 +1,20 @@
+Change Footprint: Footprint Not Found DPAK229P990X238-4N
+Change Component Comment : Designator=U3 Old Comment=TLV1117LV33DCYR New Comment=VIN->5V0
+Change component parameters: Designator = "U3" ("U3"); Footprint = "VREG_TLV1117LV33DCYR"; UniqueID = "\GOODCCBV" ("\GOODCCBV")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MC7805BDTRKG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-252-3 Freescale Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MC7805BDTRKG/ON%20Semiconductor/view-part/360207/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found VREG_TLV1117LV33DCYR
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Added Pin To Net: NetName=VIN Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetD2_1 Pin=U3-3
+Add Class Member: Failed to add class member : Component U1 TLV1117LV33DCYR
+Added Member To Class: ClassName=Main Member=Component U3 VIN->5V0

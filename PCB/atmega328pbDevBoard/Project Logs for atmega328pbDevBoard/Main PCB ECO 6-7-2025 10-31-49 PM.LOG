@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VIN Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=NetD2_1 Pin=U1-3
+Change Component Comment : Designator=U1 Old Comment=VIN->5V0 New Comment=TLV1117LV33DCYR
+Change component parameters: Designator = "U1" ("U1"); Footprint = "VREG_TLV1117LV33DCYR"; UniqueID = "\XOTLQYWT" ("\XOTLQYWT")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLV1117LV33DCYR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "296-28778-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TLV1117LV33DCYR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-223-4 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TLV1117LV33DCYR/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLV1117LV33DCYR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=3V3 Pin=U1-2
+Added Pin To Net: NetName=5V0 Pin=U1-3
+Added Pin To Net: NetName=3V3 Pin=U1-4
+Added Pin To Net: NetName=VIN Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetD2_1 Pin=U3-3
+Added Member To Class: ClassName=Main Member=Component U1 TLV1117LV33DCYR
+Added Member To Class: ClassName=Main Member=Component U3 VIN->5V0
